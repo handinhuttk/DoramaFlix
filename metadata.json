@@ -1,0 +1,5 @@
+{
+  "name": "DoramaFlix",
+  "description": "Um catálogo de vídeos do Dailymotion inspirado na Netflix com autenticação.",
+  "requestFramePermissions": []
+}
