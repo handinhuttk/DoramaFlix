@@ -198,6 +198,6 @@ export const VIDEOS: Video[] = RAW_VIDEOS.map(video => ({
   // Dynamic embed generation
   embedUrl: `https://www.dailymotion.com/embed/video/${video.dailymotionId}`,
   // Placeholder metadata for UI consistency (since raw data didn't provide it)
-  duration: 'Dublado em PT',
+  duration: 'Dublado em PT/BR',
   year: 2026
 }));
