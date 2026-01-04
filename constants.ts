@@ -32,6 +32,10 @@ const RAW_VIDEOS = [
     dailymotionId: "x9vif92"
   },
   {
+    title: "Do Demitido ao Temido: Jamais ao Seu Alcance",
+    dailymotionId: "x9wnk7u"
+  },
+  {
     title: "Do Lixo ao Luxo Pais Bilionários Caindo do Céu",
     dailymotionId: "x9s1frm"
   },
@@ -190,6 +194,6 @@ export const VIDEOS: Video[] = RAW_VIDEOS.map(video => ({
   // Dynamic embed generation
   embedUrl: `https://www.dailymotion.com/embed/video/${video.dailymotionId}`,
   // Placeholder metadata for UI consistency (since raw data didn't provide it)
-  duration: 'Temporada 1',
-  year: 2024
+  duration: 'Dublado em PT',
+  year: 2026
 }));

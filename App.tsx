@@ -63,7 +63,7 @@ const App: React.FC = () => {
           
           {/* Footer */}
           <footer className="py-12 px-4 md:px-12 bg-neutral-900 text-neutral-500 text-sm text-center border-t border-neutral-800 mt-12">
-            <p className="mb-4">Dúvidas? Ligue 0800-FAKE-FLIX</p>
+            <p className="mb-4">Dúvidas? Fale no suporte via e-mail: suporte@doramaflix.com.br</p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-left max-w-4xl mx-auto mb-8">
                 <ul>
                     <li className="hover:underline cursor-pointer mb-2">Perguntas Frequentes</li>

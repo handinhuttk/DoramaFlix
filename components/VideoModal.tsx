@@ -86,7 +86,7 @@ const VideoModal: React.FC<VideoModalProps> = ({ video, onClose }) => {
             </div>
 
             <p className="text-white text-lg">
-                Assista <span className="font-bold">{video.title}</span> na DoramaFlix. Explore nossa vasta biblioteca de vídeos de alta qualidade obtidos diretamente do Dailymotion.
+                Assista <span className="font-bold">{video.title}</span> na DoramaFlix. Explore nossa vasta biblioteca de vídeos de alta qualidade.
             </p>
         </div>
       </div>
