@@ -16,6 +16,10 @@ const RAW_VIDEOS = [
     dailymotionId: "x9p6pj4"
   },
   {
+    title: "A vida dupla do meu marido bilionário",
+    dailymotionId: "x9uv4ye"
+  },
+  {
     title: "Atenção A Lenda Viva Saiu da Prisão",
     dailymotionId: "x9wl5go"
   },
