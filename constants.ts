@@ -132,6 +132,10 @@ const RAW_VIDEOS = [
     dailymotionId: "x9o5tli"
   },
   {
+    title: "Reivindicada pelo Irmão Alfa do meu Ex",
+    dailymotionId: "x9ubl48"
+  },
+  {
     title: "Renascer Para Terminar Os Três Casamentos",
     dailymotionId: "x9r0m0i"
   },
