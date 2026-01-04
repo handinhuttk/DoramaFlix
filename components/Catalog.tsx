@@ -70,7 +70,7 @@ const Catalog: React.FC<CatalogProps> = ({ videos, onVideoSelect }) => {
                     placeholder="O que você quer assistir hoje?"
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
-                    className="w-full bg-black/60 backdrop-blur-md border border-neutral-600 text-white pl-12 pr-4 py-4 rounded-full text-lg focus:outline-none focus:ring-2 focus:ring-red-600 focus:bg-black/80 transition-all shadow-lg placeholder:text-neutral-400"
+                    className="w-full bg-black/60 backdrop-blur-md border border-neutral-600 text-white pl-12 pr-4 py-4 rounded-full text-lg focus:outline-none focus:ring-2 focus:ring-red-600 focus:bg-black/80 transition-all shadow-lg placeholder:text-neutral-400 text-center md:text-left"
                 />
             </div>
         </div>
